@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sajid Ali (@dev-sajid-junejo)  
 
 🚀 **Java Backend Developer | PHP & CodeIgniter Enthusiast**  
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Yourdev-sajid-junejo.dev-sajid-junejo)
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/dev-sajid-junejo/readme)
 - 👀 I’m interested in **Java, Spring Boot, PHP, and exploring new tech stacks**  
 - 🌱 Currently working as a **Software Developer**, focusing on backend systems and APIs  
 - 💡 Passionate about **clean code, DevOps, and automation**  
