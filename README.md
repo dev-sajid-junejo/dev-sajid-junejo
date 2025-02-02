@@ -1,16 +1,63 @@
-# 👋 Hi, I’m Sajid Ali (@dev-sajid-junejo)  
+👋 Hi, I’m Sajid Ali (@dev-sajid-junejo)
+🚀 Java Backend Developer | PHP & CodeIgniter Enthusiast
+Profile Views
 
-🚀 **Java Backend Developer | PHP & CodeIgniter Enthusiast**  
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/dev-sajid-junejo/readme)
-- 👀 I’m interested in **Java, Spring Boot, PHP, and exploring new tech stacks**  
-- 🌱 Currently working as a **Software Developer**, focusing on backend systems and APIs  
-- 💡 Passionate about **clean code, DevOps, and automation**  
-- 💞️ Open to collaboration on **backend development, API integrations, and cloud-based solutions**
-- 📫 Old Github Account **[Github](https://github.com/sajid-junejo)**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sajid-ali-junejo-baa94a17a/)**  
-- ⚡ Fun fact: **I enjoy debugging more than writing code!**  
+👀 I’m interested in Java, Spring Boot, PHP, and exploring new tech stacks
 
-<!---
-dev-sajid-junejo/dev-sajid-junejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
+🌱 Currently working as a Software Developer, focusing on backend systems and APIs
+
+💡 Passionate about clean code, DevOps, and automation
+
+💞️ Open to collaboration on backend development, API integrations, and cloud-based solutions
+
+📫 Old GitHub Account: GitHub
+
+📫 Reach me at LinkedIn
+
+⚡ Fun fact: I enjoy debugging more than writing code!
+
+🛠️ Tech Stack
+Languages
+Java
+PHP
+JavaScript
+Python
+
+Frameworks & Libraries
+Spring Boot
+CodeIgniter
+Node.js
+
+Tools & Platforms
+Git
+Docker
+Postman
+VS Code
+
+Databases
+MySQL
+MongoDB
+
+📊 GitHub Stats
+Your GitHub Stats
+
+Top Languages
+
+🏆 GitHub Trophies
+GitHub Trophies
+
+🔗 Connect with Me
+LinkedIn
+GitHub
+Gmail
+
+📝 Latest Blog Posts
+Blog Post Title 1
+
+Blog Post Title 2
+
+❤️ Support Me
+If you find my work helpful, consider supporting me:
+Buy Me a Coffee
+
+Made with ❤️ by Sajid Ali
